@@ -33,7 +33,7 @@ streamlit
 
 1) Copy repository
 
-2) Choose preferred model
+2) Choose preferred model (!autosaved model were changed to empty-file equivalents due to size >25MB)
 
 3) download to my-finetuned-bert
 
